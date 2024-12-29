@@ -319,7 +319,7 @@
 
     | AngularJS | Angular |
     |---- | ---------
-    | It is based on MVC architecture| This is based on Service/Controller|
+    | It is based on MVC architecture| This is based on Service/Component|
     | It uses JavaScript to build the application| Uses TypeScript to build the application|
     | Based on controllers concept| This is a component based UI approach|
     | No support for mobile platforms| Fully supports mobile platforms|
